@@ -1,0 +1,4 @@
+<ListOfTask>
+  <Task file="" description="Fix the initial startup test and keep it error free for both scene files" priority="High" completed="True" />
+  <Task file="" description="Get user score to recognize value and store in order" priority="High" />
+</ListOfTask>
